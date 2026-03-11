@@ -8,6 +8,7 @@ This repository contains my solutions to various LeetCode problems, focused on m
 |---|--------------|------------|----------|----------|
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Sorting | [Java](./SortingAlgs.java) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | Linked List / Merge Sort | *Coming Soon* |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Two Pointers | [Java](./3sum.java) |
 
 ## 🛠️ Tech Stack
 * **Language:** Java
