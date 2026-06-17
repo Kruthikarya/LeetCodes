@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems, focused on m
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | Linked List / Merge Sort | *Coming Soon* |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Two Pointers | [Java](./3sum.java) |
 https://leetcode.com/problems/two-sum
+https://leetcode.com/problems/isomorphic-strings/submissions/2036641157
 
 ## 🛠️ Tech Stack
 * **Language:** Java
