@@ -11,6 +11,7 @@ This repository contains my solutions to various LeetCode problems, focused on m
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Two Pointers | [Java](./3sum.java) |
 https://leetcode.com/problems/two-sum
 https://leetcode.com/problems/isomorphic-strings/submissions/2036641157
+https://leetcode.com/problems/happy-number/submissions/2037817437
 
 ## 🛠️ Tech Stack
 * **Language:** Java
