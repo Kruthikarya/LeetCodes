@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems, focused on m
 https://leetcode.com/problems/two-sum
 https://leetcode.com/problems/isomorphic-strings/submissions/2036641157
 https://leetcode.com/problems/happy-number/submissions/2037817437
+https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 
 ## 🛠️ Tech Stack
 * **Language:** Java
