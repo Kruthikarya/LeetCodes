@@ -22,3 +22,19 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 - Solve at least 1 problem daily.
 - Optimize solutions for both Time and Space complexity.
 - Maintain a clean and well-documented codebase.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
+<!---LeetCode Topics End-->
