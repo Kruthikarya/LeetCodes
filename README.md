@@ -28,6 +28,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kruthikarya/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
@@ -37,6 +38,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kruthikarya/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
@@ -46,4 +48,8 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kruthikarya/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
