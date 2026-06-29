@@ -29,6 +29,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/Kruthikarya/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
@@ -50,6 +51,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Simulation
 |  |
@@ -59,5 +61,6 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
