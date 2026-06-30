@@ -63,4 +63,8 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0015-3sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
