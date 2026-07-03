@@ -28,6 +28,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -46,6 +47,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
