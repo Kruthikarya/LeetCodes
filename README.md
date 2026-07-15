@@ -34,6 +34,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Kruthikarya/LeetCodes/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Kruthikarya/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kruthikarya/LeetCodes/tree/master/0162-find-peak-element) |
@@ -61,6 +62,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0015-3sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Kruthikarya/LeetCodes/tree/master/0056-merge-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Simulation
 |  |
