@@ -81,6 +81,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kruthikarya/LeetCodes/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0009-palindrome-number) |
 ## String
 |  |
@@ -105,9 +106,11 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kruthikarya/LeetCodes/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kruthikarya/LeetCodes/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
