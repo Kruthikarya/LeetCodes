@@ -31,13 +31,13 @@ class Solution {
         return head;
     }
     int diff= size-newk;
-    int i=0;
+    
     curr=head;
-     while(i<diff-1){
+   for(int i=1; i<diff;i++){
         curr=curr.next;
-        i++;
-
-     }
+        
+   }
+     
      // creating and make newhead
      ListNode newhead=curr.next;
      curr.next=null;
