@@ -56,6 +56,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
@@ -88,6 +89,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 ## Greedy
 |  |
@@ -119,4 +121,8 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0002-add-two-numbers](https://github.com/Kruthikarya/LeetCodes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kruthikarya/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
