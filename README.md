@@ -58,6 +58,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0001-two-sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -125,4 +127,5 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
