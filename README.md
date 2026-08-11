@@ -39,6 +39,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kruthikarya/LeetCodes/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Kruthikarya/LeetCodes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Kruthikarya/LeetCodes/tree/master/0456-132-pattern) |
 ## Binary Search
@@ -46,6 +47,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kruthikarya/LeetCodes/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Kruthikarya/LeetCodes/tree/master/0456-132-pattern) |
 ## Matrix
 |  |
@@ -82,6 +84,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/Kruthikarya/LeetCodes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -128,4 +131,16 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
