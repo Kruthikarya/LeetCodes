@@ -41,6 +41,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0283-move-zeroes](https://github.com/Kruthikarya/LeetCodes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Kruthikarya/LeetCodes/tree/master/0456-132-pattern) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
