@@ -43,6 +43,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Kruthikarya/LeetCodes/tree/master/0456-132-pattern) |
+| [0645-set-mismatch](https://github.com/Kruthikarya/LeetCodes/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Kruthikarya/LeetCodes/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kruthikarya/LeetCodes/tree/master/0056-merge-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Kruthikarya/LeetCodes/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +140,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Kruthikarya/LeetCodes/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
