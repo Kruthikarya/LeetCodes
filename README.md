@@ -33,6 +33,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0015-3sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Kruthikarya/LeetCodes/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kruthikarya/LeetCodes/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Kruthikarya/LeetCodes/tree/master/0059-spiral-matrix-ii) |
@@ -149,4 +150,8 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Kruthikarya/LeetCodes/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
