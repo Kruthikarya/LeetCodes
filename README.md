@@ -157,4 +157,8 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kruthikarya/LeetCodes/tree/master/0046-permutations) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Kruthikarya/LeetCodes/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
