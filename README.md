@@ -39,6 +39,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0059-spiral-matrix-ii](https://github.com/Kruthikarya/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kruthikarya/LeetCodes/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kruthikarya/LeetCodes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -89,6 +90,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kruthikarya/LeetCodes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 ## Math
@@ -96,6 +98,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kruthikarya/LeetCodes/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
