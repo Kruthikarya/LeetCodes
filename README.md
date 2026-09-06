@@ -90,6 +90,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Kruthikarya/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kruthikarya/LeetCodes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
@@ -104,6 +105,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Kruthikarya/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
 |  |
