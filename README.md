@@ -64,6 +64,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0001-two-sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Kruthikarya/LeetCodes/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -75,6 +76,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kruthikarya/LeetCodes/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Kruthikarya/LeetCodes/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kruthikarya/LeetCodes/tree/master/0645-set-mismatch) |
 ## Simulation
@@ -106,6 +108,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Kruthikarya/LeetCodes/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Kruthikarya/LeetCodes/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
 |  |
