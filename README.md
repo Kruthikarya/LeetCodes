@@ -149,6 +149,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Kruthikarya/LeetCodes/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
@@ -200,4 +201,8 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kruthikarya/LeetCodes/tree/master/0098-validate-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
