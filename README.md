@@ -40,6 +40,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kruthikarya/LeetCodes/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kruthikarya/LeetCodes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -51,6 +52,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kruthikarya/LeetCodes/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Kruthikarya/LeetCodes/tree/master/0456-132-pattern) |
 ## Matrix
@@ -65,6 +67,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kruthikarya/LeetCodes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kruthikarya/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,6 +80,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kruthikarya/LeetCodes/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Kruthikarya/LeetCodes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kruthikarya/LeetCodes/tree/master/0645-set-mismatch) |
 ## Simulation
@@ -102,6 +106,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0002-add-two-numbers](https://github.com/Kruthikarya/LeetCodes/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -148,6 +153,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Kruthikarya/LeetCodes/tree/master/0645-set-mismatch) |
