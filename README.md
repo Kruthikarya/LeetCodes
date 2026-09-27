@@ -153,6 +153,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0338-counting-bits) |
@@ -211,4 +212,8 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0338-counting-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
