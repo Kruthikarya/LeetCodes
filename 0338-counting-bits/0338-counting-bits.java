@@ -1,18 +1,22 @@
 class Solution {
     public int[] countBits(int n) {
-    int[] ans=new int[n+1];
-    for(int i=0;i<ans.length;i++){
-        ans[i]=bitscount(i);
+int arr[]=new int[n+1];
+for(int i=0;i<arr.length;i++){
+    arr[i]=even(i);
+}
+return arr;
+
+
+        
     }
-    return ans;
-     }
-       public static int bitscount(int num){
+    public static int even(int num){
         int count=0;
         while(num!=0){
-            num =num& (num-1);
+            num=num&(num-1);
             count++;
         }
-      return  count;
-       }
+        return count;
+    }
+    
 
 }
