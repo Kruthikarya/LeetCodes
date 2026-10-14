@@ -1,3 +1,5 @@
+
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -8,6 +10,8 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
    ListNode dummy= new ListNode(0);
@@ -23,12 +27,14 @@ class Solution {
                     list2=list2.next;
           }
    }
-     if(list1==null){
+if(list1==null){
         current.next=list2;
-    }else{
+}else{
         current.next=list1;
     }
     return dummy.next;
      
  }
 }
+
+
