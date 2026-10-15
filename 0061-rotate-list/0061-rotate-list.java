@@ -11,40 +11,35 @@
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
      //base case
-     if(head==null||head.next==null){
-        return head;
-     }
-     if(k==0)return head;
+     if(head==null||head.next==null)return head;
+
      //basic
      ListNode curr=head;
      ListNode tail=null;
-     int size=0;
-     //actual rotate
-    while(curr!=null){
+     int sum=0;
+
+     while(curr!=null){
         tail=curr;
         curr=curr.next;
-        size++;
-    }
-    //calcu k and diff
-    int newk= k%size;
-    if(newk==0){
+        sum++;
+     }
+
+     //calcu k and diff
+     int newK= k%sum;
+     if(newK==0){
         return head;
-    }
-    int diff= size-newk;
-    
-    curr=head;
-   for(int i=1; i<diff;i++){
+     }
+
+     int diff= sum-newK;
+     curr=head;
+     for(int i=1; i<diff;i++){
         curr=curr.next;
-        
-   }
-     
-     // creating and make newhead
-     ListNode newhead=curr.next;
+     }
+
+     //making new Listnode
+     ListNode hosanode= curr.next;
      curr.next=null;
      tail.next=head;
-     return newhead;
-
-     
-        
+     return hosanode;
     }
 }
