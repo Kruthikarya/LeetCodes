@@ -33,6 +33,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0015-3sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Kruthikarya/LeetCodes/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kruthikarya/LeetCodes/tree/master/0056-merge-intervals) |
@@ -50,6 +51,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kruthikarya/LeetCodes/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
