@@ -68,6 +68,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0001-two-sum](https://github.com/Kruthikarya/LeetCodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kruthikarya/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Kruthikarya/LeetCodes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kruthikarya/LeetCodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0061-rotate-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Kruthikarya/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Kruthikarya/LeetCodes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 ## Math
@@ -109,6 +111,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0002-add-two-numbers](https://github.com/Kruthikarya/LeetCodes/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -170,6 +173,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
