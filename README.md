@@ -34,6 +34,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Kruthikarya/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kruthikarya/LeetCodes/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Kruthikarya/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kruthikarya/LeetCodes/tree/master/0056-merge-intervals) |
@@ -99,6 +100,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0016-3sum-closest](https://github.com/Kruthikarya/LeetCodes/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Kruthikarya/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Kruthikarya/LeetCodes/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Kruthikarya/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
@@ -129,10 +131,12 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kruthikarya/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Kruthikarya/LeetCodes/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kruthikarya/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Kruthikarya/LeetCodes/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
@@ -220,6 +224,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kruthikarya/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
