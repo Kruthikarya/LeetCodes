@@ -1,20 +1,18 @@
 class Solution {
     public int[] countBits(int n) {
-          int[] ans=new int[n+1];
-          for(int i=0;i<ans.length;i++){
-            ans[i]=sun(i);
-          }
-          return ans;
-
-        
+         int[] arr= new int[n+1];
+         for(int i=0;i<arr.length;i++){
+            arr[i]=whole(i);
+         }
+         return arr;
     
     }
-    public int sun(int num){
+    public static int whole(int num){
         int sum=0;
         while(num!=0){
-            num=num&(num-1);
+            num=num &(num-1);
             sum++;
         }
-       return sum;
+        return sum;
     }
 }
