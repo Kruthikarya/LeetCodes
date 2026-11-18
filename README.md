@@ -42,6 +42,7 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | [0074-search-a-2d-matrix](https://github.com/Kruthikarya/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kruthikarya/LeetCodes/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Kruthikarya/LeetCodes/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Kruthikarya/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kruthikarya/LeetCodes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kruthikarya/LeetCodes/tree/master/0287-find-the-duplicate-number) |
@@ -231,4 +232,8 @@ https://leetcode.com/problems/valid-palindrome/submissions/2038959151
 | ------- |
 | [0190-reverse-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Kruthikarya/LeetCodes/tree/master/0191-number-of-1-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Kruthikarya/LeetCodes/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
