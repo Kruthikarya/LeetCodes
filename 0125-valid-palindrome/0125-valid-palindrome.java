@@ -3,28 +3,26 @@ class Solution {
     return (c>='a'&&c<='z')||(c>='A'&&c<='Z')||(c>='0'&&c<='9');
    }
     public boolean isPalindrome(String s) {
-      int n=s.length();
-      int left=0;
-      int right=n-1;
-      while(left<right){
-        char c1=s.charAt(left);
-        char c2=s.charAt(right);
-        if(!isAlphanum(c1)){
+    int n=s.length();
+    int left=0;
+    int right=n-1;
+    while(left<=right){
+        char ch1=s.charAt(left);
+        char ch2=s.charAt(right);
+        if(!isAlphanum(ch1)){
             left++;
-        }
-        else if(!isAlphanum(c2)){
+        }else if(!isAlphanum(ch2)){
             right--;
         }
         else{
-           if (Character.toLowerCase(c1)!=Character.toLowerCase(c2)){
-            return false;
-        }
-
-        left++;
+            if(Character.toLowerCase(ch1)!=Character.toLowerCase(ch2)){
+                return false;
+            }
+             left++;
         right--;
-      }
-     
+        }
+       
     }
-     return true;
+    return true;
 }
 }
